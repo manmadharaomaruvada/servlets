@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="MavenProjectWizardArtifactPage">
+		<list key="groupId">
+		</list>
+		<list key="name">
+		</list>
+		<list key="artifactId">
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+		<list key="version">
+			<item value="0.0.1-SNAPSHOT"/>
+		</list>
+	</section>
+	<section name="org.eclipse.m2e.core.pom.dependencies">
+	</section>
+	<section name="org.eclipse.m2e.core.pom.overview">
+		<list key="ciManagementUrl">
+		</list>
+		<list key="ciManagementSystem">
+		</list>
+		<list key="issueManagementSystem">
+		</list>
+		<list key="issueManagementUrl">
+		</list>
+	</section>
+	<section name="MavenProjectWizardArchetypePage">
+		<item value="internal" key="catalog"/>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+	</section>
+	<section name="MavenProjectWizardLocationPage">
+		<list key="location">
+			<item value="E:\servletworkspace\SendRedirectDemo\src\main\webapp\WEB-INF\web.xml"/>
+			<item value="E:\servletworkspace\RequestDispatcherDemo\src\main\java\com\ojas\LoginServlet.java"/>
+			<item value="E:\servletworkspace\GreetingApp"/>
+			<item value="E:\servletworkspace\Servers"/>
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+	</section>
+	<section name="Maven2ProjectWizardArchifactPage">
+		<list key="package">
+			<item value="com.ojas.ConfigAndContext"/>
+			<item value="com.ojas.Demo"/>
+			<item value="com.ojas.SendRedirectDemo"/>
+			<item value="com.ojas.RequestDispatcherDemo"/>
+			<item value="com.ojas.doGetDemo"/>
+			<item value="com.ojas.AddSub"/>
+			<item value="com.ojas.GreetingApp"/>
+			<item value="com.ojas.Welcome"/>
+		</list>
+		<list key="groupId">
+			<item value="com.ojas"/>
+		</list>
+		<list key="artifactId">
+			<item value="ConfigAndContext"/>
+			<item value="Demo"/>
+			<item value="SendRedirectDemo"/>
+			<item value="RequestDispatcherDemo"/>
+			<item value="doGetDemo"/>
+			<item value="AddSub"/>
+			<item value="GreetingApp"/>
+			<item value="Welcome"/>
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+		<list key="version">
+			<item value="0.0.1-SNAPSHOT"/>
+		</list>
+	</section>
+</section>

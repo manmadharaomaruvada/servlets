@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="ISO-8859-1">
+<title>myPage</title>
+</head>
+<body>
+<form action="./diff">
+enter name<input type="text" name="word"/>
+<input type="submit" name="click"/>
+</form>
+</body>
+</html>
